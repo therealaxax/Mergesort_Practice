@@ -12,6 +12,7 @@ int main()
     list[5] = 22;
     list[6] = 59;
     list[7] = 74;
+
     int i = 0;
     int keycomparisons = 0;
 
