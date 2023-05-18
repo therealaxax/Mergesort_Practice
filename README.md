@@ -1,2 +1,2 @@
 # mergesort-practice-thingy
- for practicing mergesort algorithm
+<p> This repository was used for practicing mergesort algorithm. </p>
